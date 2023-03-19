@@ -6,12 +6,4 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Egitiminde olusturdu
 ![github](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/markdown.png)
 
 # Installation
-``` bash
-git clone https://github.com/AylinYay/kodluyoruzilkrepo
-```
-
-Linux için
-``` linux
-cd kodluyoruzilkrepo
-code .
-```
+git clone http://github.com/AylinYay/kodluyoruzilkrepo
